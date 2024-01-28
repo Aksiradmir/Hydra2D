@@ -1,4 +1,4 @@
-# Hydra2D
+Hydra2D
 ==============================================================
 
 Implementation of the 2D SPH approach in the Fluid Dynamics simulations. 
@@ -8,6 +8,7 @@ Dependencies
 ------------
 
 - OpenMP (GCC already contains it)
+- Numpy and Matplotlib for visualization using Python
 
 Installation
 ------------

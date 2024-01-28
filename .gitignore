@@ -35,3 +35,4 @@
 .DS_Store
 source/.DS_Store
 include/.DS_Store
+build
