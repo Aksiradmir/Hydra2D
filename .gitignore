@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Private folders
+.DS_Store
+source/.DS_Store
+include/.DS_Store
