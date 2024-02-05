@@ -36,3 +36,7 @@
 source/.DS_Store
 include/.DS_Store
 build
+
+# CLion
+.idea
+cmake-build-debug
